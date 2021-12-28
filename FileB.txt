@@ -1,0 +1,3 @@
+FileB first line
+second line
+
