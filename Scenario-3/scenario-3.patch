@@ -1,0 +1,9 @@
+diff --git a/Scenario-3/FileA.txt b/Scenario-3/FileA.txt
+index 3cb4d16..7934a47 100644
+--- a/Scenario-3/FileA.txt
++++ b/Scenario-3/FileA.txt
+@@ -1,2 +1,4 @@
+ FileA first line
+ 
++new line
++
